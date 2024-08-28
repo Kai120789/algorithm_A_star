@@ -1,0 +1,15 @@
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\bin\Debug\net8.0\algoritm_A.exe
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\bin\Debug\net8.0\algoritm_A.deps.json
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\bin\Debug\net8.0\algoritm_A.runtimeconfig.json
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\bin\Debug\net8.0\algoritm_A.dll
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\bin\Debug\net8.0\algoritm_A.pdb
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\obj\Debug\net8.0\algoritm_A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\obj\Debug\net8.0\algoritm_A.AssemblyInfoInputs.cache
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\obj\Debug\net8.0\algoritm_A.AssemblyInfo.cs
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\obj\Debug\net8.0\algoritm_A.csproj.CoreCompileInputs.cache
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\obj\Debug\net8.0\algoritm_A.sourcelink.json
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\obj\Debug\net8.0\algoritm_A.dll
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\obj\Debug\net8.0\refint\algoritm_A.dll
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\obj\Debug\net8.0\algoritm_A.pdb
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\obj\Debug\net8.0\algoritm_A.genruntimeconfig.cache
+C:\Users\dnspo\source\repos\algoritm_A\algoritm_A\obj\Debug\net8.0\ref\algoritm_A.dll
